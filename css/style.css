@@ -96,7 +96,6 @@ a.logo:visited
 .container section .iframe-container{
     position: fixed;
     top: 5rem; right: 0rem;
-    margin-right: -18rem;
     justify-content: center;
     align-items: center;
     z-index: 499;
