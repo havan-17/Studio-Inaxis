@@ -100,9 +100,6 @@ a.logo:visited
     align-items: center;
     z-index: 499;
 }
-.container section{
-    margin-right: 20rem;
-}
 .iframe-container::after {
     content: "";
     display: block;
